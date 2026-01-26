@@ -129,7 +129,7 @@ const HeroSection = () => {
 
       {/* Bottom Center Contact CTA */}
       <div className="absolute bottom-8 right-8 transform  z-20  text-end">
-        <Link href={"https://wa.me/+919847024201"} target="_blank">
+        <Link href={"https://wa.me/+919447082101"} target="_blank">
           {" "}
         
           <h2 className="text-lg font-mono font-light bg-black px-3 py-2 text-white tracking-widest uppercase mb-1">
