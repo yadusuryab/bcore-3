@@ -3,7 +3,7 @@ import React from "react";
 
 function Brand() {
   return (
-    <Image src="/bcore-white-logo.png" alt="logo" width={200} height={200} />
+    <Image src="/bcore-white-logo.png" alt="logo" width={150} height={150} />
   );
 }
 
