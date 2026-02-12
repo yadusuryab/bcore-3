@@ -71,14 +71,14 @@ export default function HomeNav() {
               Home
             </Link>
             <Link
-              href="/tuition-classes-for-class-5-to-12-pilathara-payyanur-for-class-5-to-12-pilathara-payyanur"
+              href="/tuition-classes-for-class-5-to-12-pilathara-payyanur"
               className="hover:text-purple-200 transition"
               onClick={() => setIsMenuOpen(false)}
             >
               Tuition Classes
             </Link>
             <Link
-              href="/computer-courses-pilathara-payyanur-pilathara-payyanur"
+              href="/computer-courses-pilathara-payyanur"
               className="hover:text-purple-200 transition"
               onClick={() => setIsMenuOpen(false)}
             >

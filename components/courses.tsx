@@ -15,7 +15,7 @@ export default function CoursesSection() {
       subtitle: "CBSE & State syllabus with expert faculty",
       image: "/tuition-2.png",
       alt: "Students learning at Bcore tuition classes in Pilathara, Payyanur",
-      href: "/tuition-classes-for-class-5-to-12-pilathara-payyanur-for-class-5-to-12-pilathara-payyanur",
+      href: "/tuition-classes-for-class-5-to-12-pilathara-payyanur",
       color: "purple",
       subjects: [
         "CBSE", "State English", "State Malayalam", "Class 5th to 12th", "BASIC MATHS, ENGLISH, HINDI, MALAYALAM",
@@ -28,7 +28,7 @@ export default function CoursesSection() {
       subtitle: "Job-oriented training with certificates",
       image: "/computer-2.png",
       alt: "Computer lab and training at Bcore computer courses in Pilathara, Payyanur",
-      href: "/computer-courses-pilathara-payyanur-pilathara-payyanur",
+      href: "/computer-courses-pilathara-payyanur",
       color: "blue",
       subjects: [
         "PGDCA", "CTTC", "DCA", "DCM", "ANIMATION", "GRAPHIC DESIGNING",
