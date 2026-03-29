@@ -79,7 +79,7 @@ const allCourses = [
     duration: "6 Months",
     level: "Beginner",
     description: "Foundation course covering basic computer applications, MS Office, internet, and programming fundamentals.",
-    curriculum: ["Computer Fundamentals", "MS Office", "Internet", "Programming Basics", "Accounting"],
+    curriculum: ["Computer Fundamentals", "MS Office", "Internet", "Programming Basics", "Accounting","DTP"],
     fee: "Contact for fee",
     slug: "/computer-courses-pilathara-payyanur/dca"
   },
