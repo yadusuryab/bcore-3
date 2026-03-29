@@ -494,6 +494,72 @@ import {
       reviews: 78
     },
     {
+      id: "python",
+      slug: "python",
+      name: "Python",
+      fullName: "Python Programming",
+      shortName: "Python",
+      category: "programming",
+      categoryDisplay: "Programming Languages",
+      duration: "4 Months",
+      durationWeeks: 16,
+      level: "Intermediate",
+      fee: "Contact for fee",
+      description: "Master C and C++ programming languages with data structures and object-oriented programming concepts.",
+      longDescription: "C and C++ are fundamental programming languages that form the backbone of modern software development. This comprehensive course covers C programming fundamentals, followed by object-oriented programming with C++. Students learn data structures, algorithms, and develop practical applications.",
+      curriculum: [
+        "C Programming Fundamentals",
+        "Control Structures & Functions",
+        "Arrays & Strings",
+        "Pointers & Dynamic Memory",
+        "Structures & Unions",
+        "File Handling in C",
+        "C++ Introduction",
+        "Object-Oriented Programming",
+        "Classes & Objects",
+        "Inheritance & Polymorphism",
+        "Templates & STL",
+        "Exception Handling",
+        "Mini Projects"
+      ],
+      prerequisites: [
+        "Basic computer knowledge",
+        "Logical thinking ability",
+        "No prior programming required"
+      ],
+      careerOpportunities: [
+        "Software Developer",
+        "System Programmer",
+        "Game Developer",
+        "Embedded Systems Engineer",
+        "Application Developer"
+      ],
+      learningOutcomes: [
+        "Write efficient C programs",
+        "Implement OOP concepts in C++",
+        "Use data structures effectively",
+        "Debug programs systematically",
+        "Build console applications"
+      ],
+      icon: Code,
+      gradient: "from-green-600 to-green-700",
+      lightBg: "bg-green-50",
+      textColor: "text-green-700",
+      borderColor: "border-green-200",
+      features: [
+        "Strong fundamentals focus",
+        "50+ programming exercises",
+        "Algorithm implementation",
+        "Project-based learning"
+      ],
+      certification: "Certified C/C++ Programmer",
+      classMode: "Both",
+      batchTimings: ["Morning: 7:30 AM - 9:30 AM", "Evening: 5:30 PM - 7:30 PM", "Weekend: 9:00 AM - 12:00 PM"],
+      studentsEnrolled: 320,
+      rating: 4.6,
+      reviews: 78
+    },
+    {
       id: "html",
       slug: "html",
       name: "HTML",

@@ -75,6 +75,8 @@ function SeoAbout() {
                 {"@type": "Course", "name": "Graphic Designing"},
                 {"@type": "Course", "name": "Animation"},
                 {"@type": "Course", "name": "C & C++"},
+                {"@type": "Course", "name": "Python"},
+
                 {"@type": "Course", "name": "HTML"},
                 {"@type": "Course", "name": "Spoken English"},
                 {"@type": "Course", "name": "Illustrator"},

@@ -39,7 +39,7 @@ function Footer() {
           English, Hindi, Malayalam, Maths, Spoken English & Hindi, and
           Calligraphy. In addition, bCORE provides 18+ job-oriented computer
           courses including PGDCA, DCA, CTTC, DCM, Animation, Graphic Designing,
-          MS Office, DTP, Tally, C & C++, Photoshop, Illustrator, CorelDRAW,
+          MS Office, DTP, Tally, C & C++,Python, Photoshop, Illustrator, CorelDRAW,
           Flash, HTML, and ISM Malayalam, along with special vacation batches.
           With admissions open for 2024, the institute is known for its
           experienced faculty, small batch sizes, practical lab-based training,

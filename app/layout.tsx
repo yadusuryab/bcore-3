@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     title:
       "Bcore Computers & Tuition | Best Tuition & Computer Centre in Payyanur & Pilathara",
     description:
-      "MS Office, DCA, ADCA, Tally, school tuition (5th–10th), tuition in Kannur.",
+      "MS Office, DCA, ADCA, Tally, school tuition (5th–12th), tuition in Kannur.",
     siteName: "Bcore Computers & Tuition",
     images: [
       {

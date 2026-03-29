@@ -32,7 +32,7 @@ export default function CoursesSection() {
       color: "blue",
       subjects: [
         "PGDCA", "CTTC", "DCA", "DCM", "ANIMATION", "GRAPHIC DESIGNING",
-        "MS-OFFICE", "DTP", "TALLY", "C & C++", "PHOTOSHOP", "ILLUSTRATOR",
+        "MS-OFFICE", "DTP", "TALLY", "C & C++","Python",  "PHOTOSHOP", "ILLUSTRATOR",
         "IMAGEREADY", "CORELDRAW", "FLASH", "HTML", "ISM MALAYALAM", 
         "VACATION COURSES"
       ]

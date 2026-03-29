@@ -32,6 +32,7 @@ export default function SeoCourses() {
         <li>Animation</li>
         <li>Graphic Designing</li>
         <li>C & C++ Programming</li>
+        <li>Python Programming</li>
         <li>HTML</li>
         <li>ISM Malayalam</li>
         <li>DTP - Desktop Publishing</li>
@@ -81,6 +82,8 @@ export default function SeoCourses() {
                 {"@type": "Course", "name": "Animation"},
                 {"@type": "Course", "name": "Graphic Designing"},
                 {"@type": "Course", "name": "C & C++"},
+                {"@type": "Course", "name": "Python"},
+
                 {"@type": "Course", "name": "HTML"},
                 {"@type": "Course", "name": "ISM Malayalam"},
                 {"@type": "Course", "name": "DTP"},

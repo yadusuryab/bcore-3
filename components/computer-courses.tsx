@@ -62,7 +62,7 @@ export default function ComputerCourses() {
       icon: <BookOpen className="w-6 h-6" />,
       color: "from-orange-600 to-orange-700",
       courses: [
-        "5th to 10th STD (CBSE)",
+        "5th to 12th STD (CBSE)",
         "Basic Maths",
         "English",
         "Hindi",
@@ -88,7 +88,7 @@ export default function ComputerCourses() {
 
   const allCourses = [
     "PGDCA", "CTTC", "DCA", "DCM", "Animation", "Graphic Designing", 
-    "MS Office", "DTP", "Tally", "C & C++", "Photoshop", "Illustrator", 
+    "MS Office", "DTP", "Tally", "C & C++","Python", "Photoshop", "Illustrator", 
     "ImageReady", "CorelDRAW", "Flash", "HTML", "ISM Malayalam", 
     "Vacation Courses", "Spoken English", "Spoken Hindi", "Calligraphy",
     "Basic Maths", "English", "Hindi", "Malayalam"
@@ -205,7 +205,7 @@ export default function ComputerCourses() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-16">
           <div className="bg-white p-6 rounded-xl text-center shadow-md">
             <div className="text-3xl mb-2">📚</div>
-            <div className="font-bold text-purple-700">5th-10th STD</div>
+            <div className="font-bold text-purple-700">5th-12th STD</div>
             <div className="text-sm text-gray-600">CBSE Tuition</div>
           </div>
           <div className="bg-white p-6 rounded-xl text-center shadow-md">
@@ -237,7 +237,7 @@ export default function ComputerCourses() {
             </Button>
           </Link>
           <p className="text-sm text-gray-500 mt-4">
-            ⚡ Admissions started for 5th to 10th STD (CBSE) • Limited seats available
+            ⚡ Admissions started for 5th to 12th STD (CBSE) • Limited seats available
           </p>
         </div>
 
@@ -249,7 +249,7 @@ export default function ComputerCourses() {
               "@context": "https://schema.org",
               "@type": "EducationEvent",
               "name": "Bcore Computer Education Courses",
-              "description": "Computer courses including PGDCA, DCA, Animation, Graphic Designing, MS Office, Tally, Programming and Tuition for 5th to 10th STD CBSE",
+              "description": "Computer courses including PGDCA, DCA, Animation, Graphic Designing, MS Office, Tally, Programming and Tuition for 5th to 12th STD CBSE",
               "location": {
                 "@type": "Place",
                 "name": "Bcore Computer Education",
