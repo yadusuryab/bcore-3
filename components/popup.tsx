@@ -220,7 +220,7 @@ const PostersPopup: React.FC<PostersPopupProps> = ({
               </h2>
 
               {/* Action Buttons — compact */}
-              <div className="flex gap-2">
+              {/* <div className="flex gap-2">
                 <button className="flex-1 flex items-center justify-center gap-1.5 bg-white text-gray-900 font-semibold text-xs py-2.5 rounded-lg hover:bg-white/90 active:scale-95 transition-all duration-150">
                   <ExternalLink className="w-3 h-3" />
                   Learn More
@@ -231,7 +231,7 @@ const PostersPopup: React.FC<PostersPopupProps> = ({
                 >
                   Dismiss
                 </button>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
